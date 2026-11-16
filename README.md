@@ -4,9 +4,7 @@
 Computational Thinking for Engineering — Engenharia de Computação, 1º ano.
 
 ## Integrantes
-- Nome completo — RM:
-- Nome completo — RM:
-- Nome completo — RM:
+- Giulia Leite — RM:570641
 
 ## Ambiente escolhido
 Sala de aula de uma escola.
@@ -48,7 +46,4 @@ O programa solicita a quantidade de leituras e, para cada uma, temperatura, PM2,
 - Percentual de leituras críticas e classificação geral pelo critério de mais de 30%.
 - Geração de relatório TXT e opção de nova análise com reinicialização dos dados.
 
-## Estrutura sugerida do repositório
-- `ecosense.py` — código-fonte.
-- `README.md` — documentação e instruções.
-- `relatorio_ecosense_exemplo.txt` — exemplo de relatório gerado.
+
