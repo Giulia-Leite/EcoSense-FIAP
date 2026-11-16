@@ -1,0 +1,58 @@
+RELATORIO - ECOSENSE
+=======================================================
+Ambiente monitorado: Sala de aula de uma escola
+Quantidade de leituras: 3
+
+LIMITES DE REFERENCIA ADOTADOS
+Temperatura: 18.0 a 25.0 °C (NR-17, uso didatico)
+PM2,5: ate 15.0 µg/m³ (media de 24 horas, OMS 2021)
+Ruido: ate 35.0 dB (sala de aula, ABNT NBR 10152:2017)
+
+ESTATISTICAS
+Temperatura:
+  Media: 24.00 °C
+  Maior valor: 27.00 °C
+  Menor valor: 22.00 °C
+PM2,5:
+  Media: 12.67 µg/m³
+  Maior valor: 20.00 µg/m³
+  Menor valor: 8.00 µg/m³
+Ruido:
+  Media: 34.00 dB
+  Maior valor: 40.00 dB
+  Menor valor: 30.00 dB
+OCORRENCIAS CRITICAS POR PARAMETRO
+Temperatura: 1
+PM2,5: 1
+Ruido: 1
+
+RESUMO DAS LEITURAS
+Leituras com pelo menos uma condicao critica: 2
+Percentual de leituras criticas: 66.67%
+
+CLASSIFICACAO GERAL
+Estado geral: condicoes ambientais de atencao, com frequencia de ocorrencias acima do criterio estabelecido.
+
+DETALHAMENTO DAS LEITURAS
+
+Leitura 1:
+  Temperatura: 22.00 °C
+  PM2,5: 10.00 µg/m³
+  Ruido: 30.00 dB
+  Situacao: dentro dos limites de referencia.
+
+Leitura 2:
+  Temperatura: 27.00 °C
+  PM2,5: 20.00 µg/m³
+  Ruido: 32.00 dB
+  ALERTA: Temperatura fora da faixa de referencia (18.0 a 25.0 °C).
+  ALERTA: Concentracao de PM2,5 acima do limite de 15.0 µg/m³.
+
+Leitura 3:
+  Temperatura: 23.00 °C
+  PM2,5: 8.00 µg/m³
+  Ruido: 40.00 dB
+  ALERTA: Nivel de ruido acima do valor de referencia de 35.0 dB.
+
+OBSERVACAO
+Este relatorio apresenta uma simulacao baseada nos criterios e limites adotados pelo projeto. Nao representa certificacao de seguranca ambiental nem substitui avaliacao tecnica do espaco.
